@@ -1,6 +1,5 @@
 <?php
 
-
 namespace App\Service\Geo;
 
 interface GeoServiceInteface
