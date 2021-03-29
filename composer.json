@@ -1,0 +1,8 @@
+{
+  "name": "dmitriy/geointerface",
+  "autoload": {
+    "psr-4": {
+      "InterfaceUA\\dmitriy\\": "src/"
+    }
+  }
+}
